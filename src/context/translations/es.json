@@ -1,0 +1,82 @@
+{
+  "features": "Características",
+  "team": "Equipo",
+  "signIn": "Iniciar sesión",
+  "hero": {
+    "title": "Todos tus archivos en un lugar seguro, accesibles desde cualquier lugar.",
+    "description": "Fylo almacena todos tus archivos más importantes en un lugar seguro. Accede a ellos donde lo necesites, comparte y colabora con amigos, familiares y compañeros de trabajo.",
+    "button": "Empezar"
+  },
+
+  "featuresSection": {
+    "accessAnywhere": {
+      "img": "./images/icon-access-anywhere",
+      "title": "Accede a tus archivos, en cualquier lugar",
+      "description": "La capacidad de usar un teléfono inteligente, tableta o computadora para acceder a tu cuenta significa que tus archivos te siguen a todas partes."
+    },
+    "securityTrust": {
+      "img": "./images/icon-security",
+      "title": "Seguridad en la que puedes confiar",
+      "description": "La autenticación de dos factores y la encriptación controlada por el usuario son solo algunas de las características de seguridad que permitimos para ayudar a proteger tus archivos."
+    },
+    "realTimeCollaboration": {
+      "img": "./images/icon-collaboration",
+      "title": "Colaboración en tiempo real",
+      "description": "Comparte archivos y carpetas de forma segura con amigos, familiares y colegas para colaboración en tiempo real. No se requieren archivos adjuntos de correo electrónico."
+    },
+    "storeAnyTypeOfFile": {
+      "img": "./images/icon-any-file",
+      "title": "Almacena cualquier tipo de archivo",
+      "description": "Ya sea que estés compartiendo fotos de vacaciones o documentos de trabajo, Fylo te cubre permitiendo que todos los tipos de archivos se almacenen y compartan de forma segura."
+    }
+  },
+  "productiveSection": {
+    "title": "Mantente productivo, estés donde estés",
+    "description1": "Nunca dejes que la ubicación sea un problema al acceder a tus archivos. Fylo te cubre para todas tus necesidades de almacenamiento de archivos.",
+    "description2": "Comparte archivos y carpetas de forma segura con amigos, familiares y colegas para colaboración en tiempo real. No se requieren archivos adjuntos de correo electrónico.",
+    "link": "Ver cómo funciona Fylo"
+  },
+  "testimonialsSection": [
+    {
+      "text": "Fylo ha mejorado la productividad de nuestro equipo en un orden de magnitud. Desde que hicimos el cambio, nuestro equipo se ha convertido en una máquina de colaboración bien engrasada.",
+      "authorName": "Satish Patel",
+      "authorPosition": "Fundador y CEO, Huddle",
+      "authorImg": "./images/profile-1.jpg"
+    },
+    {
+      "text": "Fylo ha mejorado la productividad de nuestro equipo en un orden de magnitud. Desde que hicimos el cambio, nuestro equipo se ha convertido en una máquina de colaboración bien engrasada.",
+      "authorName": "Bruce McKenzie",
+      "authorPosition": "Fundador y CEO, Huddle",
+      "authorImg": "./images/profile-2.jpg"
+    },
+    {
+      "text": "Fylo ha mejorado la productividad de nuestro equipo en un orden de magnitud. Desde que hicimos el cambio, nuestro equipo se ha convertido en una máquina de colaboración bien engrasada.",
+      "authorName": "Iva Boyd",
+      "authorPosition": "Fundadora y CEO, Huddle",
+      "authorImg": "./images/profile-3.jpg"
+    }
+  ],
+  "earlyAccessSection": {
+    "title": "¡Obtén acceso temprano hoy!",
+    "description": "Solo lleva un minuto registrarte y nuestro nivel inicial gratuito es extremadamente generoso. Si tienes alguna pregunta, nuestro equipo de soporte estará encantado de ayudarte.",
+    "placeholder": "correo@example.com",
+    "button": "Empezar gratis",
+    "errorMessage": "por favor, introduce una dirección de correo electrónico válida"
+  },
+  "footer": {
+    "ubication": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi in, illo totam fugiat autem at repellat ea quae facere sit.",
+    "contacts": {
+      "phone": "+1-543-123-4567",
+      "email": "ejemplo@fylo.com"
+    },
+    "links": {
+      "about": "Acerca de",
+      "jobs": "Trabajos",
+      "press": "Prensa",
+      "blog": "Blog",
+      "contactUs": "Contáctanos",
+      "terms": "Términos",
+      "privacy": "Privacidad"
+    }
+  }
+}

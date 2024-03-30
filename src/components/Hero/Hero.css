@@ -1,0 +1,60 @@
+.hero {
+  background: url("./images/bg-curvy-desktop.svg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  & div {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    padding-bottom: 15rem;
+    max-width: 47.8125rem;
+  }
+
+  & .hero-img {
+    width: 60%;
+    max-width: 45rem;
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+
+  & .hero-title {
+    font-size: 2.1em;
+    font-weight: 700;
+    line-height: 2.4rem;
+    margin: auto;
+  }
+
+  .hero-description {
+    font-size: 1.1em;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  & button {
+    width: 250px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero {
+    div {
+      padding-bottom: 5rem;
+    }
+
+    .hero-title {
+      font-size: 1.3em;
+    }
+    .hero-description {
+      font-size: 0.8em;
+    }
+  }
+}
